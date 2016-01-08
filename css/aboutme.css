@@ -7,12 +7,19 @@
 }
 
 .containerd {
-  margin-top: 50px;
-  margin-left: 50px;
+  background-color: rgba(21, 51, 26, 1);
 }
 
-.container {
-  margin-top: 60px;
+.navbar{
+  margin-left: 70px;
+  padding-top: 20px;
+  color: white;
+
+}
+
+.nav-pills {
+  font-size: 20px;
+
 }
 
 .column {
@@ -21,7 +28,7 @@
 }
 
 footer.container {
-  background-color: #7a9460;
+  background-color: rgba(21, 51, 26, 1);
   width: 100%;
   margin-top: 300px;
   position: absolute;
