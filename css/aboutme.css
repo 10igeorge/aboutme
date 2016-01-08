@@ -17,5 +17,13 @@
 
 .column {
   float: right;
-  width: 640px;
+  width: 800px;
+}
+
+footer.container {
+  background-color: #7a9460;
+  width: 100%;
+  margin-top: 300px;
+  position: absolute;
+  height: 75px;
 }
