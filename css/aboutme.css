@@ -3,9 +3,19 @@
   border-radius: 50%;
   float: left;
   margin-right: 40px;
+  margin-top: 65px;
+}
+
+.containerd {
+  margin-top: 50px;
+  margin-left: 50px;
 }
 
 .container {
-  margin-top: 10px;
-  margin-left: 50px;
+  margin-top: 60px;
+}
+
+.column {
+  float: right;
+  width: 640px;
 }
